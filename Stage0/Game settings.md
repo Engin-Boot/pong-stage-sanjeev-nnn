@@ -1,4 +1,4 @@
-# Settings
+# Game settings
 
 ## Feature
 

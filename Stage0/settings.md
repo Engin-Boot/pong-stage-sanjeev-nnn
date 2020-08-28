@@ -12,7 +12,7 @@ This module allows the player to set the configurations for ball, paddle and vel
 
   When the player chooses "change ball color" option
 
-  Then the player is able to choose one from white, grey or silver.
+  Then the player is able to choose one from white, gray or silver.
 
 ### Scenario: Change ball velocity
 

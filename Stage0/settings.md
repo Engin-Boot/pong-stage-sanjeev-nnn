@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module allows the player to set the configurations for ball, paddle, velocity and difficulty level.
+This module allows the player to set the configuration for the game in settings.
 
 ## Acceptance Criteria
 
@@ -37,5 +37,3 @@ This module allows the player to set the configurations for ball, paddle, veloci
   When the player chooses "Difficulty level" option
 
   Then the player is able to choose one from easy, medium or hard.
-
-

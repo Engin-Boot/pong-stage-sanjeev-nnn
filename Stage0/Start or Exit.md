@@ -21,4 +21,3 @@ This module is to launch or exit the ping pong game.
   When the player chooses 'exit' option
 
   Then the game is exited after confirmation.
-

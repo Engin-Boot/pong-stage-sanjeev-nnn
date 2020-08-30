@@ -2,7 +2,7 @@
 
 ## Feature
 
-This module is to launch or exit the ping pong game.
+This module is to start or exit the ping pong game.
 
 ## Acceptance Criteria
 

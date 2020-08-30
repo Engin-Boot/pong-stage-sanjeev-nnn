@@ -1,17 +1,24 @@
-# -give-this-module-a-name
+# Start or Exit game
 
 ## Feature
 
-What part of the game does this module deliver?
+This module is to launch or exit the ping pong game.
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: Start the game
 
-  Given -give-initial-values-and-conditions
+  Given the game application is installed and opened
 
-  When -event-happens
+  When the player chooses 'start' option
 
-  Then -module-does-this
+  Then the game window is launched in full screen.
 
-### -add-scenario-if-needed
+### Scenario: Exit the game
+
+  Given the game is launched/started
+
+  When the player chooses 'exit' option
+
+  Then the game is exited after confirmation.
+

@@ -8,7 +8,7 @@ This module declares the winner after calculating the score.
 
 ### Scenario: Declare winner
 
-  Given the game is started and the counter for the hits/miss of the ball is being calculated
+  Given the game is started and the count for hits/miss of the ball is calculated
 
   When one of the player's counter value becomes 50
 

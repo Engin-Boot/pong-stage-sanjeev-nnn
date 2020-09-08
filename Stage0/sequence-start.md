@@ -18,5 +18,5 @@ Start-Exit-game
 
 ## One score
 
-Score is calculated as per the logic given in the "Ball-Collision" 
+Score is calculated as per the logic given in the "Ball-Collision"
 module and the winner is declared at the end (Declare-Winner)

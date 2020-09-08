@@ -8,13 +8,13 @@ User starts the game (Start-Exit-game").
 
 ## Movement Initiation
 
-"LaunchApp" ->
-"GameSettings" ->
-"Start-Exit_game" ->
-"MovePaddle" ->
-"BallCollision" ->
-"DeclareWinner" ->
-"Start-Exit_game"
+Launch App ->
+Game Settings ->
+Start Exit game ->
+Move Paddle ->
+Ball Collision ->
+Declare Winner ->
+Start Exit game
 
 ## One score
 

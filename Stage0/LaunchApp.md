@@ -6,7 +6,7 @@ This module explains the procedure to launch the app.
 
 ## Acceptance Criteria
 
-### Scenario: Lauch the app
+### Scenario: Launch the app
 
   Given the game is installed
 

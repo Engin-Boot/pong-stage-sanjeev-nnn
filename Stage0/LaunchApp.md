@@ -10,6 +10,6 @@ This module explains the procedure to launch the app.
 
   Given the game is installed
 
-  When the player clicks on the game icon 
+  When the player clicks on the game icon
 
   Then the player is automatically navigated into the app.
